@@ -291,7 +291,7 @@ donde:
 
 • $(y_i$): valores observados (provenientes del muestreo de alta precisión),
 
-• $(f_\theta(x_i)$): modelo analítico propuesto.
+• $(f_\theta(x_i))$: modelo analítico propuesto.
 
 <br>
 
