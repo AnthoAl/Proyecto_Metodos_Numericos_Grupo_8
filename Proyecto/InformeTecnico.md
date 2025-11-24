@@ -665,7 +665,7 @@ Se ha realizado un muestreo de varios puntos utilizando el modelo para identific
 
 <br>
 
-![Muestreo de datos](image.png)
+![Muestreo de datos](muestreo.png)
 
 *Figura 1 Gráfica del muestreo de datos resultante*
 
@@ -675,7 +675,7 @@ Debido a que el conjunto de puntos está contenido en un área limitada, se apli
 
 <br>
 
-![Fronteras de decisión](image-1.png)
+![Fronteras de decisión](frontera_decision.png)
 
 *Figura 2 Gráfica de las fronteras de decisión obtenidas a través del método de bisección*
 
@@ -720,7 +720,7 @@ A continuación, se presenta la comparación gráfica entre las funciones obteni
 
 <br>
 
-![Gráfica de comparación de modelos ajustados y la función original](image-2.png)
+![Gráfica de comparación de modelos ajustados y la función original](comparacion_modelos.png)
 
 *Figura 3 Comparación del ajuste de la frontera inferior utilizando Gauss-Newton y Levenberg-Marquardt*
 
