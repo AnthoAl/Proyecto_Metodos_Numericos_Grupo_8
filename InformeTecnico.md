@@ -24,7 +24,7 @@ Finalmente, se hace la comparación y la interpretación de los resultados obten
 
 ---
 
-## 2. Metodología 💡
+## 2. Metodología
 
 Este apartado es responsabilidad del **Analista Matemático y de Implementación (AMI)** y el **Coordinador (CDT)**.
 
